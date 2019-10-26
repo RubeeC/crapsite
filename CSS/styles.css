@@ -3,7 +3,12 @@ body {
   font-family: cursive;
 }
 
-p {
+.become {
+  font-size: 100px;
+  text-decoration: none;
+  text-shadow: 3px 2.5px black;
+}
+  p {
 
   color: #fff7d6;
   text-shadow: 0.5px 0.30px #ffd739;
@@ -13,7 +18,7 @@ p {
 label {
 
   color: #ffd369;
-  text-shadow: 0.5px 0.30px #aaaaaa
+  text-shadow: 0.5px 0.30px #aaaaaa;
 }
 
 h1 {
